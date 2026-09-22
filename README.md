@@ -9,4 +9,3 @@ This is my Git practice repo.
 Edited directly on GitHub.
 ## TODO
 - Not sure about this yet
-This line is a mistake.
