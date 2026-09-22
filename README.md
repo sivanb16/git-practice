@@ -9,3 +9,4 @@ This is my Git practice repo.
 Edited directly on GitHub.
 ## TODO
 - Not sure about this yet
+Hotfix applied directly to master
