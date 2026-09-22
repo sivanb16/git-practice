@@ -6,3 +6,4 @@ This is my Git practice repo.
 
 * Practice repo for learning Git
 
+Edited directly on GitHub.
