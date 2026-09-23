@@ -15,3 +15,6 @@ Started work on rebase demo
 ## Profile
 This is profile branch change
 
+My uncommitted changes
+Now committing the changes
+
